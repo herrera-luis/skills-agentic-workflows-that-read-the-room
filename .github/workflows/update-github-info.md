@@ -18,6 +18,10 @@ network:
     - github.com
     - github.blog
     - awesome-copilot.github.com
+  hosted-web:
+    allowed:
+      - github.blog
+      - awesome-copilot.github.com
 engine: codex
 model: openai/gpt-5.6-luna
 ---
