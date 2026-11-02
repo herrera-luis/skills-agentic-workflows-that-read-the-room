@@ -17,6 +17,7 @@ network:
   allowed:
     - github.com
     - github.blog
+    - awesome-copilot.github.com
 engine:
   id: copilot
   copilot-sdk: true
@@ -29,6 +30,7 @@ Read `notes/mona-notes.md` before making changes.
 Use web-fetch for external public guidance and these official sources:
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
+- Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
 
 Use GitHub repository API tools to read repository guidance or reference files. Do not use terminal, CLI, or sandboxed commands to read those files or fetch public web pages.
 
