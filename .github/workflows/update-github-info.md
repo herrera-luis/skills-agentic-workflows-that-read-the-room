@@ -21,7 +21,7 @@ network:
 engine:
   id: copilot
   copilot-sdk: true
-model: gpt-5-mini
+model: gpt-5.6-luna-free-auto
 ---
 
 # Update Mona's GitHub Info website
