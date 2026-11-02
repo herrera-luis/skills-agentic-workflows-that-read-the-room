@@ -18,10 +18,8 @@ network:
     - github.com
     - github.blog
     - awesome-copilot.github.com
-engine:
-  id: copilot
-  copilot-sdk: true
-model: gpt-5.6-luna-free-auto
+engine: codex
+model: openai/gpt-5.6-luna
 ---
 
 # Update Mona's GitHub Info website
